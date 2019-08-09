@@ -1,9 +1,6 @@
-# Front end interview question
-前端面试题整理
+# 列举几个css中可继承和不可继承的元素
 
-## 列举几个css中可继承和不可继承的元素
-
-### 不可继承的：
+## 不可继承的：
 
 ​	display：display 属性规定元素应该生成的框的类型。
 
@@ -49,13 +46,13 @@
 
 ​	vertical-align：vertical-align 属性设置元素的垂直对齐方式。
 
-### 所有元素可继承：
+## 所有元素可继承：
 
 ​		visibility：visibility 属性规定元素是否可见。
 
 ​		ursor：cursor 属性规定要显示的光标的类型（形状）。
 
-### 内联元素可继承:
+## 内联元素可继承:
 
 ​	letter-spacing：letter-spacing 属性增加或减少字符间的空白（字符间距）。
 
@@ -94,13 +91,13 @@
 
 ​	direction：direction 属性规定文本的方向 / 书写方向。
 
-### 终端块元素可继承：
+## 终端块元素可继承：
 
 ​	text-indent：text-indent 属性规定文本块中首行文本的缩进。
 
 ​	text-align：text-align 属性规定元素中的文本的水平对齐方式。
 
-### 列表元素可继承:
+## 列表元素可继承:
 
 ​	list-style：list-style 简写属性在一个声明中设置所有的列表属性。
 
