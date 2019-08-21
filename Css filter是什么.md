@@ -11,11 +11,11 @@ img {
 
 使用filter的效果
 
-![filter-0](E:\FEIQ\images\filter-0.jpg)
+![filter-0](https://github.com/lingdianyiyuan/FEIQ/blob/master/images/filter-0.jpg)
 
 未使用filter的效果
 
-![filter-1](E:\FEIQ\images\filter-1.jpg)
+![filter-1](https://github.com/lingdianyiyuan/FEIQ/blob/master/images/filter-1.jpg)
 
 JavaScript的语法：object*.style.WebkitFilter="grayscale(100%)" 
 
