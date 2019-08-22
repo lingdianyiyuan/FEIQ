@@ -6,7 +6,7 @@
 
 现在大部分浏览器 IE9+，Firefox、Chrome、Safari、Opera ，如果我们不修改相关的字体配置，都是默认显示 font-size 是 16px 即
 
-```html
+```css
 html {
     font-size:16px;
 }
@@ -14,7 +14,7 @@ html {
 
 那么如果我们想给一个 P 标签设置 12px 的字体大小那么用 rem 来写就是
 
-```html
+```css
 p {
     font-size: 0.75rem; //12÷16=0.75（rem）
 }
