@@ -14,3 +14,5 @@
 [Css filter是什么？](https://github.com/lingdianyiyuan/FEIQ/blob/master/Css%20filter%E6%98%AF%E4%BB%80%E4%B9%88.md)
 
 [网页如何去适配不同的宽度](https://github.com/lingdianyiyuan/FEIQ/blob/master/%E7%BD%91%E9%A1%B5%E5%A6%82%E4%BD%95%E5%8E%BB%E9%80%82%E9%85%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AE%BD%E5%BA%A6.md)
+
+[详述meta标签的作用](https://github.com/lingdianyiyuan/FEIQ/blob/master/%E8%AF%A6%E8%BF%B0meta%E6%A0%87%E7%AD%BE%E7%9A%84%E4%BD%9C%E7%94%A8.md)
