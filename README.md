@@ -20,3 +20,5 @@
 [position默认值和所有可能值？](https://github.com/lingdianyiyuan/FEIQ/blob/master/position%E9%BB%98%E8%AE%A4%E5%80%BC%E5%92%8C%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E5%80%BC.md)
 
 [什么是sass和less.md](https://github.com/lingdianyiyuan/FEIQ/blob/master/%E4%BB%80%E4%B9%88%E6%98%AFsass%E5%92%8Cless.md)
+
+[css动画最小间隔](https://github.com/lingdianyiyuan/FEIQ/blob/master/css%E5%8A%A8%E7%94%BB%E6%9C%80%E5%B0%8F%E9%97%B4%E9%9A%94.md)
